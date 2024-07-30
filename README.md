@@ -1,6 +1,6 @@
 ## Running Unit Tests
 
-To execute the unit tests for the TinyURL project, use the following command in your terminal:
+To execute the unit tests for this project, use the following command:
 
 `python -m unittest tinyurl.py`
 
